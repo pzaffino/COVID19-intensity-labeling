@@ -1,3 +1,5 @@
+# COVID-19 submillimetric CT dataset
+
 This repository contains the code described in the article
 “Zaffino P, Marzullo A, Moccia S, Calimeri F, De Momi E, Bertucci B, Arcuri PP, Spadea MF.
 An Open-Source COVID-19 CT Dataset with Automatic Lung Tissue Classification for Radiomics.
